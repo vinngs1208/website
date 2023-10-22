@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>黄源森 Vincent NG</title>
+    <style>
+        body {
+            background-color: #333;
+            color: white;
+            font-family: Arial, sans-serif;
+            padding: 0 10px;
+        }
+        h2 {
+            color: orange; /* 小标题设为橙色 */
+        }
+        ul {
+            padding: 3;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        a {
+            color: #4CAF50; /* 链接颜色 */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .profile-image {
+            width: 200px;
+            border-radius: 50%;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div style="text-align: center;">
+        <!-- 个人照片 -->
+        <img src="https://media.licdn.com/dms/image/D5603AQHlcMaGupfJBg/profile-displayphoto-shrink_800_800/0/1693705421995?e=1703721600&v=beta&t=9XAcD0cXn5RcY3NnHXZc9ZZDOZA_v8nQ8UBNRM4k-CA" alt="黄源森 Vincent NG" class="profile-image">
+        <!-- 姓名 -->
+        <h1>黄源森 Vincent NG</h1>
+    </div>
+
+    <!-- 个人简介 -->
+    <div class="section" style="margin: 0 auto; width: 90%;">
+        <h2>个人简介</h2>
+        <p>现于上海财经大学就读应用统计专硕，前华为风控专员。2021 为Tableau大使，在数据可视化的普及进行推广和教育，兴趣是游山和咖啡。</p>
+    </div>
+
+    <!-- 联系信息 -->
+    <div class="section" style="margin: 0 auto; width: 90%;">
+        <h2>联系信息</h2>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/vincentngs99/" target="_blank">https://www.linkedin.com/in/vincentngs99/</a></p>
+        <p>邮箱: <a href="mailto:bb80481@um.edu.mo">bb80481@um.edu.mo</a></p>
+    </div>
+
+    <!-- 教育经历 -->
+    <div class="section" style="margin: 0 auto; width: 90%;">
+        <h2>教育经历</h2>
+        <ul>
+            <li>Aug 2018 - Jun 2022： 澳门大学，理学士金融毕业
+                <ul>
+                    <li>7个学期连续获得院长荣誉榜</li>
+                    <li>4 年全额奖学金</li>
+                    <li>EQUIS认证的学生代表，撰写报告和参与评议团队</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <!-- 工作经历 -->
+    <div class="section" style="margin: 0 auto; width: 90%;">
+        <h2>工作经历</h2>
+        <ul>
+            <li>Aug 2022 - Aug 2023：华为内控专员
+                <ul>
+                    <li>技能: 分析能力·企业风险管理·业务流程·沟通能力</li>
+                </ul>
+            </li>
+
+          <div style="margin-bottom: 20px;"></div>
+            <li>Sep 2021 - Aug 2022：Tableau学生大使
+                <ul>
+                    <li>组织1场校内分享及Tableau培训工作坊(共5场)，16名学员顺利完成整个工作坊。教授内容包含条形图、折线图、散点图、地图、冲积图、饼图、高级Tableau技能</li>
+                    <li>荣获Tableau大中华区2021第三届Viz挑战赛冠军及人气奖</li>
+                    <li>在Tableau Public上发表作品20余件</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <!-- 作品或项目 -->
+    <div class="section" style="margin: 0 auto; width: 90%;">
+        <h2>作品或项目</h2>
+        <p>Tableau作品: <a href="https://public.tableau.com/app/profile/vincent.ngs99#!/" target="_blank">https://public.tableau.com/app/profile/vincent.ngs99#!/</a></p>
+        <p>GitHub: <a href="https://github.com/vinngs1208" target="_blank">https://github.com/vinngs1208</a></p>
+    </div>
+
+</body>
+</html>
